@@ -1,6 +1,8 @@
 ### Olá,mundo! 👋
 🧑🏻 Meu nome é Rafael, e esse é o meu mundo!
+
 💻 Atualmente cursando ciência da computação
+
 ✉ rafaelrehfeld97@gmail.com
 
 <!--
