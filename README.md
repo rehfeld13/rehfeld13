@@ -1,6 +1,8 @@
 ### Olá,mundo! 👋
+🧑🏻 Meu nome é Rafael, e esse é o meu mundo!
+💻 Atualmente cursando ciência da computação
+✉ rafaelrehfeld97@gmail.com
 
-⌛ Atualmente cursando ciência da computação!
 <!--
 **rehfeld13/rehfeld13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
