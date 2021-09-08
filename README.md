@@ -1,15 +1,15 @@
 ### Olá,mundo! 👋
-🧑🏻 Meu nome é Rafael, e esse é o meu mundo!
+🧑🏻 Meu nome é Rafael, e esse é o meu mundo! //
     My name is Rafael, and this is my world!
 
-💻 Atualmente cursando ciência da computação
+💻 Atualmente cursando ciência da computação // Currently studying computer science
 
-✉ rafaelrehfeld97@gmail.com
+✉ Contact: rafaelrehfeld97@gmail.com
 
 <div>
   <a href="https://github.com/rehfeld13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehfeld13&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehfeld13&layout=compact&langs_count=7&theme=cobalt"/>
+
     
 
      
