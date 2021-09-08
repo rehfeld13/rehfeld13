@@ -1,4 +1,4 @@
-### Olá, mundo! 👋 // Hello, world!
+### Olá, mundo! 👋 // Hello, world!🌎
 🧑🏻 Meu nome é Rafael, e esse é o meu mundo! //
     My name is Rafael, and this is my world!
 
