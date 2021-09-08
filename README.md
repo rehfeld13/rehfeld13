@@ -15,7 +15,7 @@
   <a href = "mailto:rafaelrehfeld97@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target"="_blank"></a>
  
       
-      <div>
+      
           ![Alt Text](https://c.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif)
 
 
