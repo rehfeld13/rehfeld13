@@ -1,6 +1,6 @@
 ### Olá,mundo! 👋
 🧑🏻 Meu nome é Rafael, e esse é o meu mundo!
- ##### My name is Rafael, and this is my world!
+    My name is Rafael, and this is my world!
 
 💻 Atualmente cursando ciência da computação
 
