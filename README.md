@@ -10,14 +10,15 @@
   <a href="https://github.com/rehfeld13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehfeld13&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 
-    
-
-     
-  
   <div> 
   <a href="https://www.instagram.com/rafaelucl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaelrehfeld97@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target"="_blank"></a>
  
+      
+      <div>
+          ![Alt Text](https://c.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif)
+
+
 </div>
   
 <!--
