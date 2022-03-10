@@ -2,7 +2,7 @@
 🧑🏻 Meu nome é Rafael, e esse é o meu mundo! //
     My name is Rafael, and this is my world!
 
-💻 Atualmente cursando ciência da computação // Currently studying computer science
+💻 Bacharelado Ciência da Computação 2 período // Bachelor's Degree in Computer Science 2 period
 
 ✉ Contact: rafaelrehfeld97@gmail.com
 
