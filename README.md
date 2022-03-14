@@ -1,5 +1,7 @@
 ### Bem-vindo(a) ao meu perfil!🌎
 Desenvolvedor de Programas, DEV WEB e aluno do 2 período em Ciência da Computação (Centro Universitário UNA)
+----------------------------------------------------------------------------------------------------------
+
 Program Developer, WEB DEV and 2nd year student in Computer Science (UNA University Center) in Brazil.
 
 ✉ Contact: rafaelrehfeld97@gmail.com
