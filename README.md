@@ -1,8 +1,6 @@
-### Olá, mundo! 👋 // Hello, world!🌎
-🧑🏻 Meu nome é Rafael, e esse é o meu mundo! //
-    My name is Rafael, and this is my world!
-
-💻 Bacharelado Ciência da Computação 2 período // Bachelor's Degree in Computer Science 2 period
+### Bem-vindo(a) ao meu perfil!🌎
+🇧🇷 Desenvolvedor de Programas, DEV WEB e aluno do 2 período em Ciência da Computação (Centro Universitário UNA)
+🇬🇧 Program Developer, WEB DEV and 2nd year student in Computer Science (UNA University Center) in Brazil.
 
 ✉ Contact: rafaelrehfeld97@gmail.com
 
