@@ -1,8 +1,8 @@
 ### Bem-vindo(a) ao meu perfil!🌎
-Atualmente estudando Desenvolvimento WEB na parte de Front-end, sou aluno do 2 período em Ciência da Computação (Centro Universitário UNA)
+Atualmente estudando Desenvolvimento WEB na parte de Front-end, sou aluno do 3 período em Ciência da Computação (Centro Universitário UNA)
 ----------------------------------------------------------------------------------------------------------
 
- English Version: Currently studying WEB Development in the Front-end part, I am a 2nd year student in Computer Science (Centro Universitário UNA)
+ English Version: Currently studying WEB Development in the Front-end part, I am a 3nd year student in Computer Science (Centro Universitário UNA)
 
 ✉ Contact: rafaelrehfeld97@gmail.com
 
