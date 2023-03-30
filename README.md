@@ -1,6 +1,7 @@
 ### 🌎
 
-![Olá, me chamo Rafael  Muito prazer  (1)](https://user-images.githubusercontent.com/88861731/228973408-c3644121-3184-4160-9fbc-3b95e9744821.png)
+![Olá, me chamo Rafael  Muito prazer  (3)](https://user-images.githubusercontent.com/88861731/228973917-cc07034b-ef1e-44fd-95d7-18503912a191.png)
+
 
 
 Atualmente estudando Desenvolvimento WEB, sou aluno do 4 período em Ciência da Computação (Centro Universitário UNA)
