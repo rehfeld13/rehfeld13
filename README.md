@@ -3,10 +3,10 @@
 ![Olá, me chamo Rafael  Muito prazer  (1)](https://user-images.githubusercontent.com/88861731/228973408-c3644121-3184-4160-9fbc-3b95e9744821.png)
 
 
-Atualmente estudando Desenvolvimento WEB na parte de Front-end, sou aluno do 4 período em Ciência da Computação (Centro Universitário UNA)
+Atualmente estudando Desenvolvimento WEB, sou aluno do 4 período em Ciência da Computação (Centro Universitário UNA)
 ----------------------------------------------------------------------------------------------------------
 
- English Version: Currently studying WEB Development in the Front-end part, I am a 4nd year student in Computer Science (Centro Universitário UNA)
+ English Version: Currently studying WEB Development, I am a 4nd year student in Computer Science (Centro Universitário UNA)
 
 ✉ Contact: rafaelrehfeld97@gmail.com
 
