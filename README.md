@@ -1,6 +1,7 @@
-### 🌎
+### 
 
-![Olá, me chamo Rafael  Muito prazer  (3)](https://user-images.githubusercontent.com/88861731/228973917-cc07034b-ef1e-44fd-95d7-18503912a191.png)
+![image](https://user-images.githubusercontent.com/88861731/235307023-0348665b-624c-4006-b99b-3b8e5e75c780.png)
+
 
 
 
