@@ -12,11 +12,10 @@
 ✉ Contact: rafaelrehfeld97@gmail.com
 
  
-  ##![react](https://user-images.githubusercontent.com/88861731/235307415-38b9f631-b2c4-47c4-b504-dcd5203213a6.png)
-![html5](https://user-images.githubusercontent.com/88861731/235307417-bdc2a636-484e-422c-83b3-761727ae737c.png)
-![git](https://user-images.githubusercontent.com/88861731/235307418-98106b6e-dfe3-4e14-b1fc-5612dc3d6357.png)
-![github](https://user-images.githubusercontent.com/88861731/235307419-dfc55424-d460-43c7-a6e3-228ff7dd1005.png)
-![jslogo](https://user-images.githubusercontent.com/88861731/235307421-3523da44-39eb-448f-8da5-a47f5ab2670d.png)
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
  
 <div> 
