@@ -5,7 +5,7 @@
 ![Design sem nome (6)](https://user-images.githubusercontent.com/88861731/235307133-70f45746-be86-46a9-8dde-ec1d24240f87.png)
 
 
- ## WEB Development(HTML,CSS,JAVASCRIPT,REACT.JS, I am a 4nd year student in Computer Science (Centro Universitário UNA)
+ ## WEB Development(HTML,CSS,JAVASCRIPT,REACT.JS), I am a 4nd year student in Computer Science (Centro Universitário UNA)
 
 ✉ Contact: rafaelrehfeld97@gmail.com
 
