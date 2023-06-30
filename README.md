@@ -1,8 +1,7 @@
 ### 
 
+![REHFELD DEV](https://github.com/rehfeld13/rehfeld13/assets/88861731/96c8a14a-973d-46a2-be19-9beb08ffe45a)
 
-
-![Design sem nome (6)](https://user-images.githubusercontent.com/88861731/235307133-70f45746-be86-46a9-8dde-ec1d24240f87.png)
 
 
  ## WEB Development, I am a 4nd year student in Computer Science (Centro Universitário UNA)
