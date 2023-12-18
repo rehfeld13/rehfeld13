@@ -6,7 +6,7 @@
 
 
 
- ## WEB Development, I am a 4nd year student in Computer Science (Centro Universitário UNA)
+ ## Hello, I'm Rafael and I'm a software developer, 6th semester Computer Science student (Centro Universitário UNA)
  
 
 ✉ Contact: rafaelrehfeld97@gmail.com
