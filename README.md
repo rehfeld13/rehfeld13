@@ -1,10 +1,3 @@
-### 
-
-
-![REHFELD DEV (2)](https://github.com/rehfeld13/rehfeld13/assets/88861731/713e1f80-8251-426e-aa37-f0677ffae406)
-
-
-
 
  ## Hello, I'm Rafael and I'm a software developer, 6th semester Computer Science student (Centro Universitário UNA)
  
