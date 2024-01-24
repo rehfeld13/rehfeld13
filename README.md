@@ -1,5 +1,5 @@
 
- ## Hello, I'm Rafael and I'm a software developer, 6th semester Computer Science student (Centro Universitário UNA)
+ ## Hello, I'm Rafael and I'm a software developer, 6th semester Computer Science student
  
 
 ✉ Contact: rafaelrehfeld97@gmail.com
