@@ -6,7 +6,7 @@
 
 I currently work with the following technologies:
 
-Angular, React, React Native, Next.JS, Laravel PHP and FIlament
+TypeScript, Angular, React, React Native, Next.JS, Laravel PHP and FIlament
  
 <div> 
    <a href="https://instagram.com/rafaelrehfeld1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
