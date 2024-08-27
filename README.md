@@ -1,5 +1,5 @@
 
- ## Hello, I'm Rafael and I'm a software developer, 7th semester Computer Science student 🇧🇷
+ ## Front-end developer for 2 years in web and mobile applications, 7 of 8 periods completed in computer science. 🇧🇷
  
 
 ✉ Contact: rafaelrehfeld97@gmail.com
