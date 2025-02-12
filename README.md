@@ -12,7 +12,8 @@
 ## 🚀 About Me  
 I'm a **Front-End Developer** with **2 years of experience** in web and mobile applications. Passionate about building intuitive and scalable interfaces, I specialize in modern front-end technologies and continuously seek to enhance my knowledge in **design patterns, best practices, and software architecture**.  
 
-I currently work with:  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nestjs,mysql,postgres,laravel,git,docker,angular,androidstudio)](https://skillicons.dev)
+
 ✔ **TypeScript, Angular, React, React Native, Next.js**  
 ✔ **Laravel PHP, Filament**  
 
