@@ -14,9 +14,6 @@ I'm a **Front-End Developer** with **2 years of experience** in web and mobile a
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nestjs,mysql,postgres,laravel,git,docker,angular,androidstudio)](https://skillicons.dev)
 
-✔ **TypeScript, Angular, React, React Native, Next.js**  
-✔ **Laravel PHP, Filament**  
-
 ---
 
 ## 📫 Get in Touch  
