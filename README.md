@@ -37,14 +37,5 @@ Feel free to reach out!
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rehfeld13&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehfeld13&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ⭐ Let's build something amazing together!
 
