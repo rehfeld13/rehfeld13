@@ -21,7 +21,8 @@ Feel free to reach out!
 
 📧 **Email:** [rafaelrehfeld97@gmail.com](mailto:rafaelrehfeld97@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/rafaelrehfeld](https://www.linkedin.com/in/rafaelrehfeld/)  
-📷 **Instagram:** [@rafaelrehfeld1](https://instagram.com/rafaelrehfeld1)  
+📷 **Instagram:** [@rafaelrehfeld1](https://instagram.com/rafaelrehfeld1) 
+
 ---
 
 ⭐ Let's build something amazing together!
