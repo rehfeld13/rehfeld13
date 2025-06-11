@@ -3,7 +3,7 @@
 <p align="center">
    <strong>Front-End Developer | Web & Mobile</strong>  
    <br>
-   🎓 Computer Science Student | 8/8 Periods Completed  
+   🎓 Computer Science
    📍 Brazil  
 </p>
 
