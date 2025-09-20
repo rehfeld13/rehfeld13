@@ -1,51 +1,43 @@
-<h1 align="center">Progressum 🚀</h1>
+<h1 align="center">Hey there! I'm Rafael Rehfeld 👋</h1>
 
 <p align="center">
-   <strong>Your Personal Growth Companion</strong>  
+   <strong>Front-End Developer | Web & Mobile</strong>  
    <br>
-   Track your goals, boost your productivity, and turn your daily actions into real progress.
+   🎓 Computer Science
+   📍 Brazil  
 </p>
 
 ---
 
-## 🌟 About Progressum
-<p align="center">
-Progressum is my **personal project** designed to help people **set clear goals and achieve consistent progress** every day.  
-With an intuitive interface and smart tracking tools, Progressum transforms your intentions into measurable growth.  
-Whether it's **personal development, learning, or career goals**, this platform guides you to stay motivated and organized.
-</p>
+## 🚀 About Me  
+I'm a **Front-End Developer** with **2 years of experience** in web and mobile applications. Passionate about building intuitive and scalable interfaces, I specialize in modern front-end technologies and continuously seek to enhance my knowledge in **design patterns, best practices, and software architecture**.  
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nestjs,mysql,postgres,laravel,git,docker,angular,androidstudio)](https://skillicons.dev)
 
 ---
 
-## 🔧 Key Features
-<p align="center">
-- Set and track **daily, weekly, and long-term goals**  
-- Monitor your progress with **visual dashboards**  
-- Stay motivated with **personalized insights and reminders**  
-- Build consistent habits and **level up your productivity**
-</p>
+## 📫 Get in Touch  
+Feel free to reach out!  
+
+📧 **Email:** [rafaelrehfeld97@gmail.com](mailto:rafaelrehfeld97@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rafaelrehfeld](https://www.linkedin.com/in/rafaelrehfeld/)  
+📷 **Instagram:** [@rafaelrehfeld1](https://instagram.com/rafaelrehfeld1) 
 
 ---
 
-## 📫 Connect & Follow
+## 🚀 My Personal Project: Progressum
+
 <p align="center">
-Feel free to reach out and follow the journey of Progressum!  
+Progressum is my **personal growth platform** designed to help people **set clear goals and achieve daily progress**.  
+It focuses on **tracking habits, visualizing progress, and staying motivated** to reach both short-term and long-term goals.
 </p>
 
 <p align="center">
-📧 **Email:** <a href="mailto:rafaelrehfeld97@gmail.com">rafaelrehfeld97@gmail.com</a><br>
-🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/rafaelrehfeld/">linkedin.com/in/rafaelrehfeld</a><br>
-📷 **Instagram:** <a href="https://instagram.com/rafaelrehfeld1">@rafaelrehfeld1</a>
-</p>
-
----
-
-<p align="center">
-⭐ **Let's grow together with Progressum!**
+<a href="https://github.com/progressumapp" target="_blank">
+  <img width="300" height="300" alt="Progressum Logo" src="https://github.com/user-attachments/assets/a51a509d-4caa-4e16-a056-98674d069ef7" />
+</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/progressumapp" target="_blank">
-    <img width="300" height="300" alt="Progressum Logo" src="https://github.com/user-attachments/assets/a51a509d-4caa-4e16-a056-98674d069ef7" />
-  </a>
+⭐ **Check it out on GitHub and follow the journey!**
 </p>
