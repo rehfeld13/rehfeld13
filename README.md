@@ -23,21 +23,6 @@ Feel free to reach out!
 🔗 **LinkedIn:** [linkedin.com/in/rafaelrehfeld](https://www.linkedin.com/in/rafaelrehfeld/)  
 📷 **Instagram:** [@rafaelrehfeld1](https://instagram.com/rafaelrehfeld1) 
 
----
 
-## 🚀 My Personal Project: Progressum
+![b5172403ee241a32199a2428eaf596f4](https://github.com/user-attachments/assets/e4cdf73a-4804-40a0-973b-2f332b3ef39c)
 
-<p align="center">
-Progressum is my **personal growth platform** designed to help people **set clear goals and achieve daily progress**.  
-It focuses on **tracking habits, visualizing progress, and staying motivated** to reach both short-term and long-term goals.
-</p>
-
-<p align="center">
-<a href="https://github.com/progressumApp" target="_blank">
-  <img width="300" height="300" alt="Progressum Logo" src="https://github.com/user-attachments/assets/a51a509d-4caa-4e16-a056-98674d069ef7" />
-</a>
-</p>
-
-<p align="center">
-⭐ **Check it out on GitHub and follow the journey!**
-</p>
