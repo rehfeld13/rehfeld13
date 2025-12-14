@@ -23,6 +23,4 @@ Feel free to reach out!
 🔗 **LinkedIn:** [linkedin.com/in/rafaelrehfeld](https://www.linkedin.com/in/rafaelrehfeld/)  
 📷 **Instagram:** [@rafaelrehfeld1](https://instagram.com/rafaelrehfeld1) 
 
-
-![b5172403ee241a32199a2428eaf596f4](https://github.com/user-attachments/assets/e4cdf73a-4804-40a0-973b-2f332b3ef39c)
-
+![1ad91ed3d448229404e78dbdaf662b3b10e6df74_hq](https://github.com/user-attachments/assets/16334f29-38d1-434f-b622-3b84377bd3a2)
